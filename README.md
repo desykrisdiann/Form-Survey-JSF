@@ -10,7 +10,7 @@ INSTALASI
 Homepage ec2
 http://ec2-3-94-105-8.compute-1.amazonaws.com/
 
-Gmabr S3
+Gambar S3
 https://tugas1rsbk.s3.amazonaws.com/powerpuff.jpg
 
 Form Survey JSF
