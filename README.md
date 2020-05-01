@@ -1,10 +1,10 @@
 # Form-Survey-JSF
 
 <h1>INSTALASI</h1>
-1. Import project tugasutsrsbk file ke dalam Eclipse
-2. Jalankan the Payara server / tomcat server
-3. Klik kanan pada project >> Run As >> Run on server
-4. Pada browser ketik: http://localhost:<port_no>/tugasutsrsbk
+<br>1. Import project tugasutsrsbk file ke dalam Eclipse</br>
+<br>2. Jalankan the Payara server / tomcat server</br>
+<br>3. Klik kanan pada project >> Run As >> Run on server</br>
+<br>4. Pada browser ketik: http://localhost:<port_no>/tugasutsrsbk</br>
 
 
 <h1>Homepage ec2</h1>
