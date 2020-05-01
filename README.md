@@ -8,13 +8,13 @@ INSTALASI
 
 
 Homepage ec2
-http://ec2-3-94-105-8.compute-1.amazonaws.com/
+http://3.89.238.74/
 
 Gambar S3
 https://tugas1rsbk.s3.amazonaws.com/powerpuff.jpg
 
 Form Survey JSF
-http://35.172.114.146:8080/UTS-kel3-fix/
+http://3.84.84.156:8080/kelompok3-rsbk/student.xhtml
 
 
 
